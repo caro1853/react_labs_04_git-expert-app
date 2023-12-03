@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifItem Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Dragon"
+      src="https://"
+    />
+    <p>
+      Dragon
+    </p>
+  </div>
+</div>
+`;
